@@ -1,4 +1,4 @@
-## Ciao 👋 My name is Angus (@amoreo71)
+## 👋 My name is Angus (@amoreo71)
 
 📍 I am a PhD researcher at the Liverpool School of Tropical Medicine (LSTM).
 
